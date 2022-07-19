@@ -45,7 +45,7 @@ Para listar los pods de un proyecto hay que indicar el nombre del proyecto, esto
 #### Obtener más información de los pods:
 
 <p align="center">
-<img src="images/-o_wide.png"
+<img src="images/wide.png"
 	alt=""
 	width="400"
 	style="float: left; margin-right: 10px;" />
